@@ -1,0 +1,6 @@
+@WhotSiv.Api_HostAddress = http://localhost:5208
+
+GET {{WhotSiv.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

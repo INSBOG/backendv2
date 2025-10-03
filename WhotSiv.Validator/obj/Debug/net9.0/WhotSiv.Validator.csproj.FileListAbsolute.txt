@@ -1,0 +1,11 @@
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/bin/Debug/net9.0/WhotSiv.Validator.deps.json
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/bin/Debug/net9.0/WhotSiv.Validator.dll
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/bin/Debug/net9.0/WhotSiv.Validator.pdb
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/obj/Debug/net9.0/WhotSiv.Validator.GeneratedMSBuildEditorConfig.editorconfig
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/obj/Debug/net9.0/WhotSiv.Validator.AssemblyInfoInputs.cache
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/obj/Debug/net9.0/WhotSiv.Validator.AssemblyInfo.cs
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/obj/Debug/net9.0/WhotSiv.Validator.csproj.CoreCompileInputs.cache
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/obj/Debug/net9.0/WhotSiv.Validator.dll
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/obj/Debug/net9.0/refint/WhotSiv.Validator.dll
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/obj/Debug/net9.0/WhotSiv.Validator.pdb
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Validator/obj/Debug/net9.0/ref/WhotSiv.Validator.dll

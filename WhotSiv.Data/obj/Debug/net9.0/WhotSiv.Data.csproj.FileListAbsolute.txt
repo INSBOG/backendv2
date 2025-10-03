@@ -1,0 +1,14 @@
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/bin/Debug/net9.0/WhotSiv.Data.deps.json
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/bin/Debug/net9.0/WhotSiv.Data.runtimeconfig.json
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/bin/Debug/net9.0/WhotSiv.Data.dll
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/bin/Debug/net9.0/WhotSiv.Data.pdb
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/WhotSiv.Data.csproj.AssemblyReference.cache
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/WhotSiv.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/WhotSiv.Data.AssemblyInfoInputs.cache
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/WhotSiv.Data.AssemblyInfo.cs
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/WhotSiv.Data.csproj.CoreCompileInputs.cache
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/WhotSiv.Data.dll
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/refint/WhotSiv.Data.dll
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/WhotSiv.Data.pdb
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/WhotSiv.Data.genruntimeconfig.cache
+/home/wil/Documentos/WHOSIV/whosiv-backend/WhotSiv.Data/obj/Debug/net9.0/ref/WhotSiv.Data.dll
